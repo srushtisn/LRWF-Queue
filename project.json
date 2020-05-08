@@ -1,6 +1,6 @@
 {
   "name": "Claim Process",
-  "description": "Claim Process - Queue",
+  "description": "Claim Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.3-beta.867639]",
