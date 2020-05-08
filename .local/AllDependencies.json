@@ -1554,9 +1554,9 @@
     "restore": {
       "projectUniqueName": "Claim Process",
       "projectName": "Claim Process",
-      "projectPath": "D:\\Automation\\UIPath\\Programs\\Long Running WorkFlows\\Action Center\\LRWF - Queue\\.local",
+      "projectPath": "D:\\Test Folder\\.local",
       "packagesPath": "C:\\Users\\sn009777\\.nuget\\packages\\",
-      "outputPath": "D:\\Automation\\UIPath\\Programs\\Long Running WorkFlows\\Action Center\\LRWF - Queue\\.local"
+      "outputPath": "D:\\Test Folder\\.local"
     },
     "frameworks": {
       "net461": {

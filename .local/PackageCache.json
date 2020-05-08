@@ -1,0 +1,321 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.8.3-beta.867639"
+      },
+      "Assemblies": [
+        "C:\\Users\\sn009777\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Form.Activities",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\sn009777\\.nuget\\packages\\castle.core/4.3.1\\lib/net45/Castle.Core.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.5.2\\lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\system.threading.tasks.extensions/4.5.1\\lib/netstandard2.0/System.Threading.Tasks.Extensions.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/CefSharp.Core.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/CefSharp.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/CefSharp.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/UiPath.CEFSharpBundle.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/chrome_elf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/d3dcompiler_47.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/libEGL.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/libGLESv2.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/libcef.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/msvcp140.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/swiftshader/libEGL.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/swiftshader/libGLESv2.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.cefsharpbundle/1.1.1\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.form.activities/1.1.1\\lib/net461/UiPath.Callout.Activity.Design.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.form.activities/1.1.1\\lib/net461/UiPath.Callout.Activity.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.form.activities/1.1.1\\lib/net461/UiPath.Callout.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.form.activities/1.1.1\\lib/net461/UiPath.Form.Activities.Design.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.form.activities/1.1.1\\lib/net461/UiPath.Form.Activities.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.formactivitylibrary/1.1.1\\lib/net461/UiPath.Form.ActivityLibrary.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.formactivitylibrary/1.1.1\\lib/net461/UiPath.Form.Host.Local.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.formactivitylibrary/1.1.1\\lib/net461/UiPath.Form.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.formactivitylibrary/1.1.1\\lib/net461/UiPath.OutOfProcessUi.Common.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.1.1\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Persistence.Activities",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\sn009777\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.1.1\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.persistence.activities/1.1.1\\lib/net461/UiPath.Orchestrator.Service.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.persistence.activities/1.1.1\\lib/net461/UiPath.Persistence.Activities.Design.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.persistence.activities/1.1.1\\lib/net461/UiPath.Persistence.Activities.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.persistence.activities/1.1.1\\lib/net461/UiPath.Persistence.Orchestrator.Client.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "20.3.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\sn009777\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\sn009777\\.nuget\\packages\\uipath.system.activities/20.3.0-preview\\lib/net461/UiPath.System.Activities.dll"
+      ]
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "Castle.Core": {
+      "Id": "Castle.Core",
+      "Version": "4.3.1",
+      "Dependencies": []
+    },
+    "ClosedXML": {
+      "Id": "ClosedXML",
+      "Version": "0.87.1",
+      "Dependencies": [
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        }
+      ]
+    },
+    "CsvHelper": {
+      "Id": "CsvHelper",
+      "Version": "2.13.5",
+      "Dependencies": []
+    },
+    "DocumentFormat.OpenXml": {
+      "Id": "DocumentFormat.OpenXml",
+      "Version": "2.5.0",
+      "Dependencies": []
+    },
+    "Microsoft.AspNet.SignalR.Client": {
+      "Id": "Microsoft.AspNet.SignalR.Client",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.4, )"
+        }
+      ]
+    },
+    "Microsoft.Rest.ClientRuntime": {
+      "Id": "Microsoft.Rest.ClientRuntime",
+      "Version": "2.3.20",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.OLE.Interop": {
+      "Id": "Microsoft.VisualStudio.OLE.Interop",
+      "Version": "7.10.6071",
+      "Dependencies": []
+    },
+    "Newtonsoft.Json": {
+      "Id": "Newtonsoft.Json",
+      "Version": "12.0.3",
+      "Dependencies": []
+    },
+    "NPOI": {
+      "Id": "NPOI",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "SharpZipLib": {
+      "Id": "SharpZipLib",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "System.Runtime.CompilerServices.Unsafe": {
+      "Id": "System.Runtime.CompilerServices.Unsafe",
+      "Version": "4.5.2",
+      "Dependencies": []
+    },
+    "System.Threading.Tasks.Extensions": {
+      "Id": "System.Threading.Tasks.Extensions",
+      "Version": "4.5.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.5.0, )"
+        }
+      ]
+    },
+    "System.ValueTuple": {
+      "Id": "System.ValueTuple",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "UiPath.CefSharpBundle": {
+      "Id": "UiPath.CefSharpBundle",
+      "Version": "1.1.1",
+      "Dependencies": []
+    },
+    "UiPath.Excel.Activities": {
+      "Id": "UiPath.Excel.Activities",
+      "Version": "2.8.3-beta.867639",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.87.1, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.OLE.Interop",
+          "Item2": "[7.10.6071, )"
+        },
+        {
+          "Item1": "NPOI",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.Form.Activities": {
+      "Id": "UiPath.Form.Activities",
+      "Version": "1.1.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.5.2, )"
+        },
+        {
+          "Item1": "UiPath.FormActivityLibrary",
+          "Item2": "[1.1.1, )"
+        },
+        {
+          "Item1": "Castle.Core",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Extensions",
+          "Item2": "[4.5.1, )"
+        }
+      ]
+    },
+    "UiPath.FormActivityLibrary": {
+      "Id": "UiPath.FormActivityLibrary",
+      "Version": "1.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "UiPath.FormActivityLibrary.Contracts",
+          "Item2": "[1.1.1, )"
+        },
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.5.2, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "UiPath.CefSharpBundle",
+          "Item2": "[1.1.1, )"
+        }
+      ]
+    },
+    "UiPath.FormActivityLibrary.Contracts": {
+      "Id": "UiPath.FormActivityLibrary.Contracts",
+      "Version": "1.1.1",
+      "Dependencies": []
+    },
+    "UiPath.Persistence.Activities": {
+      "Id": "UiPath.Persistence.Activities",
+      "Version": "1.1.1",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.FormActivityLibrary.Contracts",
+          "Item2": "[1.0.1, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.System.Activities": {
+      "Id": "UiPath.System.Activities",
+      "Version": "20.3.0-preview",
+      "Dependencies": [
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "Microsoft.AspNet.SignalR.Client",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[12.0.3, )"
+        }
+      ]
+    }
+  }
+}
